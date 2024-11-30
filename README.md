@@ -37,12 +37,12 @@ The conditional mnemonics from ARM LRM, is shown in the snapshot below.
 
 ## How verilog modules are being integrated : 
 
-![image]((https://raw.githubusercontent.com/koder-aritra/RISC_Processor_design/refs/heads/main/pic%202.jpg))
+![image](https://raw.githubusercontent.com/koder-aritra/RISC_Processor_design/refs/heads/main/pic%202.jpg)
 
 ## Instruction Register Format:
 
-![image]((https://raw.githubusercontent.com/koder-aritra/RISC_Processor_design/refs/heads/main/pic%203.jpg))
-![image]((https://raw.githubusercontent.com/koder-aritra/RISC_Processor_design/refs/heads/main/pic%204.jpg))
+![image](https://raw.githubusercontent.com/koder-aritra/RISC_Processor_design/refs/heads/main/pic%203.jpg)
+![image](https://raw.githubusercontent.com/koder-aritra/RISC_Processor_design/refs/heads/main/pic%204.jpg)
 
 The Data memory and instruction memory are not part of the core CPU, the core CPU consists of a controller and datapath 
 
