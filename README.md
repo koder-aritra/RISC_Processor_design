@@ -32,12 +32,12 @@ The conditional mnemonics from ARM LRM, is shown in the snapshot below.
 
 ### Decoders : 
 
-![image](https://github.com/user-attachments/assets/a8027633-5732-4f60-b408-e2e7966c2525)
+![image](https://raw.githubusercontent.com/koder-aritra/RISC_Processor_design/refs/heads/main/pic%201.jpg)
 
 
 ## How verilog modules are being integrated : 
 
-![image](https://github.com/user-attachments/assets/6b6fbceb-fa39-4612-9ccd-498138879169)
+![image]((https://raw.githubusercontent.com/koder-aritra/RISC_Processor_design/refs/heads/main/pic%202.jpg))
 
 
 
